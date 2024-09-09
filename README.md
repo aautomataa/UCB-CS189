@@ -1,2 +1,2 @@
 # UCB-CS189
-Introduction to Machine Learning (self-learning program)
+self-learning program
